@@ -1,0 +1,19 @@
+# ---- IntelliJ IDEA 项目配置 ----
+.idea/
+*.iml
+
+# ---- 编译产物 ----
+out/
+target/
+build/
+*.class
+
+# ---- 日志和系统垃圾文件 ----
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- 工具自动生成的文件夹 ----
+.claude/
+.vscode/
